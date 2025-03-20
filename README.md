@@ -12,7 +12,7 @@ Market Segmentation
 
 Models: NLP, Sentiment Analysis, deeplearning
 
-<a href="https://github.com/KainaraDm/scientific_projects/tree/main/fractal_analysis">4. Fractal analysis (2021, Zaporizhzhia national university, Science)</a> 
+<a href="https://github.com/KainaraDm/scientific_projects/tree/main/fractal_analysis">4. Fractal analysis (2021, Zaporizhzhia National University, Science)</a> 
 
 Models: Fractal analysis, R/S
 
